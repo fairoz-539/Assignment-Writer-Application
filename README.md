@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was generated from [create.xyz](https://create.xyz/).
 
 It is a [Next.js](https://nextjs.org/) project built on React and TailwindCSS.
@@ -26,3 +27,9 @@ To learn more, take a look at the following resources:
 - [TailwindCSS Documentation](https://tailwindcss.com/) - learn about TailwindCSS
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+# Assignment-Writer-Application
+Gemini based Nextjs Application for Writing Assignment 2x times faster.
+>>>>>>> c8ec485442b46dbfc58e0674e5e8df7395f3fb09
+=======
+
