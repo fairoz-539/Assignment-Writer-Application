@@ -69,4 +69,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, please contact [fairoz-539](https://github.com/fairoz-539).
 
 
-You can update your `README.md` file with the above content to provide more detailed information about your application and its features.
